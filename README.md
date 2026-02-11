@@ -1,1 +1,1 @@
-# Agres-price-updater
+# Bigseller-price-updater
